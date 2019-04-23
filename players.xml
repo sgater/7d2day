@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <persistentplayerdata>
-	<player id="76561198157201492" lastlogin="2019-04-15 19:23:35">
+	<player id="76561198157201492" lastlogin="2019-04-23 14:37:46">
 		<acl id="76561197984550398"/>
 		<acl id="76561198072891483"/>
-		<bedroll pos="-84,39,215"/>
+		<bedroll pos="-85,39,218"/>
 	</player>
 	<player id="76561197984550398" lastlogin="2019-04-16 16:16:15">
 		<acl id="76561198157201492"/>
