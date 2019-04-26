@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <persistentplayerdata>
-	<player id="76561198157201492" lastlogin="2019-04-24 20:04:57">
+	<player id="76561198157201492" lastlogin="2019-04-25 23:13:36">
 		<acl id="76561197984550398"/>
 		<acl id="76561198072891483"/>
-		<bedroll pos="-85,39,218"/>
+		<bedroll pos="-2367,4,452"/>
 	</player>
 	<player id="76561197984550398" lastlogin="2019-04-16 16:16:15">
 		<acl id="76561198157201492"/>
 		<acl id="76561198072891483"/>
 		<bedroll pos="-84,39,216"/>
 	</player>
-	<player id="76561198072891483" lastlogin="2019-04-25 15:50:05">
+	<player id="76561198072891483" lastlogin="2019-04-26 12:52:01">
 		<acl id="76561197984550398"/>
 		<acl id="76561198157201492"/>
-		<bedroll pos="-84,39,217"/>
+		<bedroll pos="-2363,4,451"/>
 	</player>
 </persistentplayerdata>
