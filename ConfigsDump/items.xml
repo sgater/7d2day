@@ -3491,6 +3491,7 @@ Mesh files no longer used:
 
 		<passive_effect name="DegradationMax" operation="perc_add" value="-.2,.2" tags="perkDeadEye" /> <!-- random DegMax -->
 		<passive_effect name="RoundsPerMinute" operation="perc_add" value="-.05,.05" /> <!-- random APM -->
+		<passive_effect name="MagazineSize" operation="base_add" value="-.5,1.6" /> <!-- random MagazineSize -->
 		<passive_effect name="WeaponHandling" operation="perc_add" value="-.08,.08" /> <!-- random WeaponHandling -->
 
 		<passive_effect name="SpreadDegreesVertical" operation="base_set" value="6" />
