@@ -1684,12 +1684,6 @@ either via a direct cvar change or via RecipeTagUnlock passive effect. cvar is n
 	<ingredient name="drinkJarRiverWater" count="1" />
 </recipe>
 
-<recipe name="medicalBloodDrawKit" count="1" craft_area="chemistryStation" tags="learnable,chemStationCrafting">
-	<ingredient name="resourceDuctTape" count="2" />
-	<ingredient name="resourceScrapPolymers" count="4" />
-	<ingredient name="drinkJarEmpty" count="1" />
-</recipe>
-
 <recipe name="medicalSplint" count="1">
 	<ingredient name="resourceCloth" count="2" />
 	<ingredient name="resourceWood" count="2" />

@@ -1728,7 +1728,7 @@
 			<passive_effect name="RecipeTagUnlocked" operation="base_set" level="1,5" value="1" tags="chemistryStation" />
 			<passive_effect name="CraftingTime" operation="perc_add" level="1,5" value="-0.2" tags="chemStationCrafting" />
 			<passive_effect name="RecipeTagUnlocked" operation="base_set" level="2,5" value="1" tags="medicalFirstAidBandage,medicalPlasterCast,mineCookingPot,rScrapIronPlateMine,ammoGasCan,resourceOil" />
-			<passive_effect name="RecipeTagUnlocked" operation="base_set" level="3,5" value="1" tags="medicalFirstAidKit,medicalBloodDrawKit,drugSteroids,resourceMilitaryFiber,mineHubcap" />
+			<passive_effect name="RecipeTagUnlocked" operation="base_set" level="3,5" value="1" tags="medicalFirstAidKit,drugSteroids,resourceMilitaryFiber,mineHubcap" />
 			<passive_effect name="RecipeTagUnlocked" operation="base_set" level="4,5" value="1" tags="drugAntibiotics,batterybank,carBattery,mineAirFilter" />
 			<passive_effect name="RecipeTagUnlocked" operation="base_set" level="5" value="1" tags="drugFortBites,drugRecog" />
 
